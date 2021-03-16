@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>practice - UI content</comment>
+<entry key="createdBy">Lenovo</entry>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="name">practice.ui.content</entry>
+<entry key="acHandling">merge_preserve</entry>
+<entry key="created">2021-03-16T09:30:49.876+05:30</entry>
+<entry key="groupId">com.mindtree.git</entry>
+<entry key="version">1.0</entry>
+<entry key="packageType">content</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">practice</entry>
+<entry key="description">UI content package for practice</entry>
+<entry key="artifactId">practice.ui.content</entry>
+</properties>

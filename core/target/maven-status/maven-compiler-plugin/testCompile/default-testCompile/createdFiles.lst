@@ -1,0 +1,5 @@
+practice\core\models\HelloWorldModelTest.class
+practice\core\schedulers\SimpleScheduledTaskTest.class
+practice\core\filters\LoggingFilterTest.class
+practice\core\listeners\SimpleResourceListenerTest.class
+practice\core\servlets\SimpleServletTest.class

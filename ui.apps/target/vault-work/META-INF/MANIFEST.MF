@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Implementation-Title: practice - UI apps
+Content-Package-Roots: /apps/practice,/etc/packages/adobe/cq60/core.wc
+ m.components.all-2.5.0.zip,/etc/packages/adobe/cq60/core.wcm.componen
+ ts.examples-2.5.0.zip
+Implementation-Version: 1.0
+Built-By: Lenovo
+Implementation-Vendor-Id: com.mindtree.git
+Import-Package: com.adobe.cq.sightly;version="[3.2.0,4.0.0)",org.apach
+ e.sling.api;version="[2.3.3,3.0.0)",org.apache.sling.scripting.sightl
+ y.pojo;version="[1.0.1,2.0.0)"
+Content-Package-Type: mixed
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_271
+Content-Package-Description: UI apps package for practice
+Content-Package-Id: practice:practice.ui.apps:1.0
+
