@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1615867251670
+Bnd-LastModified: 1615871414673
 Bundle-Category: practice
 Bundle-Description: "Bundles for Integration Tests for practice"
 Bundle-ManifestVersion: 2
